@@ -5,5 +5,5 @@
 
 <ul>
   <li> <a href="https://www.baidu.com/">百度</a> </li>
-  <li> <a href="http://百度.com">我的博客（小夜）</a> </li>
+  <li> <a href="http://www.baidu.com">我的博客（小夜）</a> </li>
 </ul>
