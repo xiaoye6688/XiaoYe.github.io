@@ -8,5 +8,17 @@
   <li> <a href="https://github.com/xiaoye6688/XiaoYe.github.io/blob/main/README.md">我的博客（点我可以刷新页面哦）</a> </li>
   <li> <a href="https://www.aliyundrive.com/s/Lzf4doc8rD5">python教程（阿里云盘）</a> </li>
   <li> <a href="https://www.aliyundrive.com/s/hRgyh8RJDvy">Adobe安装包（阿里云盘）</a> </li>
+  <li> <a href="https://www.w3cschool.cn/html/html-xhtml.html">HTML入门文字教程</a> </li>
+  <li> <a href="http://2012.js13kgames.com/">13kgames（你玩过吗？）</a> </li>
+  <li> <a href="https://g.pconline.com.cn/x/diy/tiantitu/mcpu/?id=1142437">买手机电脑不知道怎么选？来看看谁的性能更强吧！</a> </li>
+  <h3>下面是几个自学编程的中文网站，你可以尝试看看</h3>
+  <li> <a href="https://www.coderutil.com/wap/home">程序员盒子</a> </li>
+  <li> <a href="https://www.bcnav.cn/">果酱云</a> </li>
+  <li> <a href="http://frontendjs.com/">前站导航</a> </li>
+  <h3>WPS要钱？白嫖党可不喜欢</h3>
+  <li> <a href="https://www.pptsupermarket.com/">ppt超级市场</a> </li>
+  <!--
+  <li> <a href=""></a> </li>
+  -->
   <input type="text" size="10" maxlength="30" value="text1">
 </ul>
