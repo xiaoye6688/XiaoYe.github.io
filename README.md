@@ -5,7 +5,7 @@
 
 <ul>
   <li> <a href="https://www.baidu.com/">百度</a> </li>
-  <li> <a href="http://www.baidu.com">我的博客（小夜）</a> </li>
+  <li> <a href="https://github.com/xiaoye6688/XiaoYe.github.io/blob/main/README.md">我的博客（点我可以刷新页面哦）</a> </li>
   <li> <a href="https://www.aliyundrive.com/s/Lzf4doc8rD5">python教程（阿里云盘）</a> </li>
   <li> <a href="https://www.aliyundrive.com/s/hRgyh8RJDvy">Adobe安装包（阿里云盘）</a> </li>
   <input type="text" size="10" maxlength="30" value="text1">
