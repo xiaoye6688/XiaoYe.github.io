@@ -2,6 +2,8 @@
 <p>Hello 大家好</p>
 <p>我是小夜，这是我的个人网站。 </p>
 <p>很高兴你来到这里, 你可以在以下的网站找到我（实际上你找不到我）</p>
+<p>这是我的微信，你或许可以尝试联系我</p>
+https://github.com/xiaoye6688/XiaoYe.github.io/blob/gh-pages/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220301130447.jpg
 
 <ul>
   <li> <a href="https://www.baidu.com/">百度</a> </li>
