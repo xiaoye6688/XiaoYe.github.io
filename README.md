@@ -13,6 +13,8 @@
   <li> <a href="http://2012.js13kgames.com/">13kgames（你玩过吗？）</a><a href="https://js13kgames.com/">13kgames官网</a></li>
   <li> <a href="https://g.pconline.com.cn/x/diy/tiantitu/mcpu/?id=1142437">买手机电脑不知道怎么选？来看看谁的性能更强吧！</a> </li>
   <li> <a href="https://unbug.github.io/codelf/">厚礼蟹！不会起变量名？让我来帮你吧！</a> </li>
+  <li> <a href="https://www.cnblogs.com/zhouhbing/p/5039885.html">拜托！会用bat命令真的很酷诶好吧</a> </li>
+  
   <h3>下面是几个自学编程的中文网站，你可以尝试看看</h3>
   <li> <a href="https://www.coderutil.com/wap/home">程序员盒子</a> </li>
   <li> <a href="https://www.bcnav.cn/">果酱云</a> </li>
