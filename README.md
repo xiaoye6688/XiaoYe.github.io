@@ -14,6 +14,7 @@
   <li> <a href="https://g.pconline.com.cn/x/diy/tiantitu/mcpu/?id=1142437">买手机电脑不知道怎么选？来看看谁的性能更强吧！</a> </li>
   <li> <a href="https://unbug.github.io/codelf/">厚礼蟹！不会起变量名？让我来帮你吧！</a> </li>
   <li> <a href="https://www.cnblogs.com/zhouhbing/p/5039885.html">拜托！会用bat命令真的很酷诶好吧</a> </li>
+  <li> <a href="https://www.w3school.com.cn/python/index.asp">这里好像什么编程资源都有诶</a> </li>
   
   <h3>下面是几个自学编程的中文网站，你可以尝试看看</h3>
   <li> <a href="https://www.coderutil.com/wap/home">程序员盒子</a> </li>
@@ -21,7 +22,7 @@
   <li> <a href="http://frontendjs.com/">前站导航</a> </li>
   <h3>WPS要钱？白嫖党可不喜欢</h3>
   <li> <a href="https://www.pptsupermarket.com/">ppt超级市场</a> </li>
-  <li> <a href="https://www.w3school.com.cn/python/index.asp">这里好像什么编程资源都有诶</a> </li>
+  
   
   
   <!--
