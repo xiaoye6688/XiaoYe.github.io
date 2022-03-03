@@ -21,6 +21,7 @@
   <li> <a href="http://frontendjs.com/">前站导航</a> </li>
   <h3>WPS要钱？白嫖党可不喜欢</h3>
   <li> <a href="https://www.pptsupermarket.com/">ppt超级市场</a> </li>
+  <li> <a href="https://www.w3school.com.cn/python/index.asp">这里好像什么编程资源都有诶</a> </li>
   
   
   <!--
