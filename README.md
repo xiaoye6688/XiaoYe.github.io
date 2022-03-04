@@ -23,7 +23,16 @@
   <li> <a href="http://frontendjs.com/">前站导航</a> </li>
   <h3>WPS要钱？白嫖党可不喜欢</h3>
   <li> <a href="https://www.pptsupermarket.com/">ppt超级市场</a> </li>
+  <h3>一些非常好用的小工具</h3>
+  <h4>电脑小工具</h4>
   
+  <li> <a href="https://jokerps.lanzoul.com/iRjM300h275c">一个可以让任务栏变透明并且实时显示网速的小插件</a> </li>
+  
+  
+  <h4>手机小工具</h4>
+
+  
+
   
   
   <!--
